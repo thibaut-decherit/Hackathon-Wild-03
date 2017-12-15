@@ -1,15 +1,3 @@
-# Emoovz
-- **HACKATHON** - *Emoovz*
-- *0000_Hackathon/171213_Hackathon_3_Emoovz*
-----
+## Hackathon-Wild-03 (Emoovz)
 
-**Emoovz**
-- Charlotte PRIEUR
-- Paul DOS SANTOS
-- Loann MEIGNANT
-- Pierre LAMBERT
-- Tibault DECHERIT
-
-Hackathon sous sinusite et angine ;) c'était au top !
-
-> [WildCodeSchool](https://wildcodeschool.fr/)
+Retrouvez le sujet [ici](https://drive.google.com/open?id=1y9VweGOFnrVQ6AzSyq1GIJoR9aa6VxTr) et un dump SQL de la base de données [là](https://gist.github.com/thibaut-decherit/dc6d2820042204fb3bdb9bb187971ee0)
